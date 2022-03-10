@@ -1,2 +1,9 @@
-# -Image-Based-Plant-Detection-Guava
-The project involves the use of Convolutional Neural Networks and Transfer Learning for building a model that will detect disease for  Guava Leaves. A detailed Comparative analysis of different pre-trained models was carried out along with detailed study on  InceptionV3 model to boost results for the detection.
+# Image-Based-Plant-Disease-Detection
+This is the required code of the paper /  report named Image Based Plant Disease Detection
+
+##### Steps ! #####
+1. Download the repository.
+2. Open the folder in an appropriate python IDE.
+3. The IDE will prompt you to create python environment therefore create.
+4. Install the required libraries from the requirements.txt file.
+5. Execute the code.
